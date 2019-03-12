@@ -1,0 +1,92 @@
+{
+  "links": {
+    "home": "HOME",
+    "menu": "MENU",
+    "about": "ABOUT",
+    "location": "LOCATIONS",
+    "reservation": "RESERVATION",
+    "english": "Anglei",
+    "french": "Français"
+  },
+  "home": {
+    "title": "COME FOR OUR SHOW<br>ENJOY OUR FOOD!",
+    "section1": "WHAT IS TEPPANYAKI?",
+    "subsection1": "Teppanyaki is a style of Japanese cuisine that uses an iron griddle to cook food. The word teppanyaki is derived from teppan , which means iron plate, and yaki, which means grilled, broiled, or pan-fried.",
+    "section2": "SOCIAL<br>DINING",
+    "subsection2": "Having a good time with Friends and Family through a perfect meal is Toyo’s ultimate experience. Be prepared to share your laughter, conversation and amazing time with our Chefs who will be cooking in front of you<br><br>Toyo offers you a table which caters to any group-size. Our environment filled with amusement and laughter is perfect for individuals, couples, families, and catching up with friends.",
+    "section3": "JAPANESE<br>STEAK",
+    "subsection3": "A steak that will bring your tastebuds to Japan.<br><br>Served to you with soy based sauce cooked to perfection with our home-made original ginger sauce recipe on the side. Itidakimasu! Dig in!",
+    "section4": "UNIQUE<br>CHEFS",
+    "subsection4": "Not all chefs are  created equal. Our chefs specializes with Japanese cuisine throughout years of training and experience. But that’s not all, they will also entertain you with their skills and laughter!",
+    "button": "MAKE A RESERVATION"
+  },
+  "menu": {
+    "dinner": "DINNER",
+    "entrees": "ENTRÉES",
+    "hibachishrimps": "HIBACHI SHRIMPS",
+    "soup": "House Onion soup",
+    "chicken": "TERIYAKI CHICKEN",
+    "salad": "House Salad",
+    "garlicbread": "GARLIC BREAD",
+    "icecream": "Ice cream/Sherbert",
+    "friedrice": "FRIED RICE",
+    "fulldinner": "FULL COURSE DINNER",
+    "fulldinnerdesc": "Your Toyo dinner includes shrimp appetizer, soup, salad and dessert, along with rice and tea. Each meal is prepared at your teppanyaki table in the finest Japanese tradition by our Toyo chefs and served with our oriental vegetables, all complimented by our own seasonings and exotics sauces.",
+    "maincourse": "MAIN COURSE",
+    "scallops": "BONSAI SCALLOPS",
+    "samuraibeef": "SAMURAI BEEF<br>(sliced)",
+    "sirloin": "SIRLOIN HIBACHI STEAK",
+    "toyospecial": "TOYO SPECIAL<br>(hibachi steak with small hot sake)",
+    "filet": "TEPPANYAKI FILET MINON",
+    "lobster": "LOBSTER TAILS",
+    "jumboshrimps": "JUMBO SHRIMPS",
+    "vegetarian": "VEGETARIANS MEAL<br>(without appetizer shrimps)",
+    "appetizers": "INCLUDED APPETIZERS",
+    "3shrimps": "3 Hibachi Shrimps",
+    "vegetables": "Oriental Vegetables",
+    "steamrice": "Steam rice",
+    "tea": "Tea",
+    "combodishes": "COMBO DISHES",
+    "c1": "C1 SAMURAI BEEF (SLICED) AND TERIYAKI CHICKEN",
+    "c2": "C2 TEPPANYAKI FILET MIGNON AND JUMBO SHRIMPS",
+    "c3": "C3 SIRLOIN HIBACHI STEAK AND TERIYAKI CHICKEN",
+    "c4": "C4 TEPPANYAKI FILET MIGNON AND LOBSTER TAILS",
+    "extras": "EXTRAS",
+    "6shrimps": "HIBACHI SHRIMPS<br>(six pieces)",
+    "kidsmeal": "KID’S MEAL<br>(under 10 years old)",
+    "lunch": "LUNCH",
+    "fulllunch": "FULL COURSE LUNCH",
+    "fulllunchdesc": "Your Toyo lunch includes shrimp appetizer, soup, salad and dessert, along with rice and tea. Each meal is prepared at your teppanyaki table in the finest Japanese tradition by our Toyo chefs and served with our oriental vegetables, all complimented by our own seasonings and exotics sauces.",
+    "speciallunch": "SPECIAL LUNCH MENU",
+    "drinks": "DRINKS",
+    "redwine": "RED WINES",
+    "housewine": "HOUSE WINE",
+    "whitewine": "WHITE WINES",
+    "sakeandbeer": "SAKE AND BEER",
+    "bottle": "Bottle",
+    "glass": "Glass",
+    "change": "All menus subject to change",
+    "backtotop": "Back to top"
+  },
+  "about": {
+    "title": "PERFECTED<br>THROUGH TIME",
+    "introduction": "Since 1981, Toyo has not only offered their clients a gastronomical experience but a theatrical one as well. Using only the freshest and finest ingredients, one of our skilled and charismatic chefs will prepare your meal right before your eyes on a teppanyaki table. You may enjoy flambeed shellfish, fresh sauteed vegetables, delicious terriyaki chicken and our succulent cuts of beef while watching the spectacular show put on by our chefs. To compliment your wonderful meal, you may savor a great selection of wine, exotic Japanese cocktails of Japanese beer.<br><br>Whether you are looking for a family dinner, a place to host your corporate event or a restaurant to celebrate a special occasion Toyo has the right atmosphere and cuisine to make your experience memorable."
+  },
+  "location": {
+    "title": "OPENING HOURS",
+    "day1": "Mon-Fri:<br>Lunch<br>11:30 to 14:00<br><br>Dinner<br>17:00 to 22:30",
+    "day2": "Sat:<br>Lunch<br>Closed<br><br>Dinner<br>17:00 to 23:00",
+    "day3": "Sun:<br>Lunch<br>Closed<br><br>Dinner<br>17:00 to 22:00",
+    "montreal": "2155 De la Montagne Montreal,Quebec<br>H3G 1Z8",
+    "laval": "1510 Boul.Chomedey,Laval,Quebec.<br>H7V 3N8"
+
+  },
+  "reservation": {
+    "title": "CALL TO RESERVE A TABLE",
+    "number1": "Tel:514-844-9292",
+    "montreal": "2155 De la Montagne<br>Montreal,Quebec<br>H3G 1Z8",
+    "number2": "Tel:450-688-4020",
+    "laval": "1510 Boul.Chomedey<br>Laval,Quebec<br>H7V 3N8"
+
+  }
+}

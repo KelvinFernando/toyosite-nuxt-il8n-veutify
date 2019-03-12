@@ -1,0 +1,91 @@
+{
+  "links": {
+    "home": "ACCUEIL",
+    "menu": "MENU",
+    "about": "À PROPOS",
+    "location": "LOCATIONS",
+    "reservation": "RESERVATION",
+    "english": "English"
+  },
+  "home": {
+    "title": "VENEZ VOIR NOTRE SPECTACLE!<br>VENEZ DÉGUSTER NOTRE FESTIN",
+    "section1": "QU'EST-CE QUE LE TEPPANYAKI?",
+    "subsection1": "Le Teppanyaki est un style de cuisine japonaise qui utilise une plaque chauffante en fer pour cuire les aliments. Le mot teppanyaki est dérivé de teppan, qui signifie plaque de fer, et de yaki, qui signifie grillé ou sauté.",
+    "section2": "REPAS<br>SOCIAL",
+    "subsection2": "Passer un bon moment avec vos amis et votre famille en dégustant un repas parfait est l’expérience ultime de Toyo. Préparez-vous à partager votre rire, votre conversation et votre temps incroyable avec nos chefs qui cuisineront devant vous<br><br>Toyo vous propose une table adaptée pour tous les groupes. Notre environnement rempli de divertissement et de rire est parfait pour les individus, les couples, les familles et les amis",
+    "section3": "STEAK<br>JAPONAIS",
+    "subsection3": "Un steak qui amènera vos papilles au Japon. Servi avec une sauce à base de soja cuite à la perfection avec notre recette originale de sauce au gingembre maison. Itidakimasu! Bon appétit!",
+    "section4": "CHEFS<br>UNIQUES",
+    "subsection4": "Tous les chefs ne sont pas égaux. Nos chefs se spécialisent dans la cuisine japonaise au fil des années de formation et d’expérience. Mais ce n’est pas tout, ils vous divertiront également avec leurs talents et leurs éclats de rire!",
+    "button": "FAIRE UNE RÉSERVATION"
+  },
+  "menu": {
+    "dinner": "DÎNER",
+    "entrees": "ENTRÉES",
+    "hibachishrimps": "CREVETTES HIBACHI",
+    "soup": "SOUPE À L'OIGNON MAISON",
+    "chicken": "POULET TERIYAKI",
+    "salad": "SALADE MAISON",
+    "garlicbread": "PAIN A L'AIL",
+    "icecream": "CREME GLACEE/SORBET",
+    "friedrice": "RIZ FRIT",
+    "fulldinner": "REPAS COMPLET",
+    "fulldinnerdesc": "Votre souper Toyo comprend un hors-d'oeuvre aux crevettes, une soupe, une salade et un dessert, ainsi que du riz et du thé. Chaque souper est préparé à votre table teppanyaki selon les meilleures traditions japonaises par nos chefs Toyo et servi avec nos légumes orientaux, rechausssés de nos propres assaisonnements et de nos sauces exotiques.",
+    "maincourse": "MAIN COURSE",
+    "scallops": "PÉTONCLES BONSAI",
+    "samuraibeef": "BOEUF SAMURAI<br>(tranché)",
+    "sirloin": "HIBACHI SURLONGE STEAK",
+    "toyospecial": "TOYO SPÉCIAL<br>(hibachi surlonge steak avec petit sake chaud)",
+    "filet": "TEPPANYAKI FILET MINON",
+    "lobster": "QUEUES D'HOMARD",
+    "jumboshrimps": "CREVETTES GEANTES",
+    "vegetarian": "REPAS VÉGÉTARIENS<br>(sans entrée de crevettes)",
+    "appetizers": "APERITIFS INCLUS",
+    "3shrimps": "3 Crevettes Hibachi",
+    "vegetables": "Légumes Orientaux",
+    "steamrice": "Riz à la vapeur",
+    "tea": "Thé",
+    "combodishes": "REPAS COMBINÉS",
+    "c1": "C1 BOEUF SAMURAI (TRANCHÉ) ET POULET TERIYAKI",
+    "c2": "C2 FILET MIGNON TEPPANYAKI ET CREVETTES GÉANTES",
+    "c3": "C3 HIBACHI SURLONGE STEAK ET POULET TERIYAKI",
+    "c4": "C4 FILET MIGNON TEPPANYAKI ET QUEUES D'HOMARD",
+    "extras": "EXTRAS",
+    "6shrimps": "CREVETTES HIBACHI<br>(six pièces)",
+    "kidsmeal": "REPAS COMPLETS<br>(pour enfants au dessous de 10 Ans)",
+    "lunch": "LE DÉJEUNER",
+    "fulllunch": "DEJEUNER COMPLET",
+    "fulllunchdesc": "Votre le déjeuner Toyo comprend un hors-d'oeuvre aux crevettes, une soupe, une salade et un dessert, ainsi que du riz et du thé. Chaque souper est préparé à votre table teppanyaki selon les meilleures traditions japonaises par nos chefs Toyo et servi avec nos légumes orientaux, rechausssés de nos propres assaisonnements et de nos sauces exotiques.",
+    "speciallunch": "MENU SPÉCIAL DU MIDI",
+    "drinks": "LES BOISSONS",
+    "redwine": "VINS ROUGES",
+    "housewine": "VIN DE LA MAISON",
+    "whitewine": "VINS BLANCS",
+    "sakeandbeer": "SAKE ET BIERE",
+    "bottle": "Bouteille",
+    "glass": "Verre",
+    "change": "Tous les menus sont sujets à changement",
+    "backtotop": "Retour au sommet"
+  },
+  "about": {
+    "title": "PARFAIT<br>À TRAVERS LE TEMPS",
+    "introduction": "Depuis 1981, les restaurants Toyo offrent à ses clients non seulement une expérience gastronomique, mais aussi une expérience théâtrale. Utilisant seulement les ingrédients de qualité, nos chefs expérimentés et chaleureux préparent vos plats devant vous. Vous pouvez déguster des crustacés flambés, des légumes frais sautées, du délicieux poulet terriyaki et nos succulentes coupes de bifteck tout en regardant un « show » spectaculaire performé par nos chefs. De plus, vous pouvez savourer notre assortiment de vins, de cocktails exotiques ou de la bière japonaise afin de complimenter votre repas. Soit un repas familial, un rendez-vous d’affaires ou une occasion spéciale, Toyo a l’ambiance et la cuisine parfaite pour rendre votre expérience mémorable."
+  },
+  "location": {
+    "title": "HEURES D'OUVERTURE",
+    "day1": "Mon-Fri:<br>Le déjeuner<br>11:30 to 14:00<br><br>Dîner<br>17:00 to 22:30",
+    "day2": "Sat:<br>Le déjeuner<br>Closed<br><br>Dîner<br>17:00 to 23:00",
+    "day3": "Sun:<br>Le déjeuner<br>Closed<br><br>Dîner<br>17:00 to 22:00",
+    "montreal": "2155 De la Montagne Montreal,Quebec<br>H3G 1Z8",
+    "laval": "1510 Boul.Chomedey,Laval,Quebec.<br>H7V 3N8"
+
+  },
+  "reservation": {
+    "title": "APPEL POUR RÉSERVER UNE TABLE",
+    "number1": "Tel:514-844-9292",
+    "montreal": "2155 De la Montagne<br>Montreal,Quebec<br>H3G 1Z8",
+    "number2": "Tel:450-688-4020",
+    "laval": "1510 Boul.Chomedey<br>Laval,Quebec<br>H7V 3N8"
+
+  }
+}
