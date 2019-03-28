@@ -9,7 +9,7 @@
           <v-img :src="require('@/assets/images/restaurant.jpg')" alt="restaurant" contain></v-img>
         </v-flex>
         <v-flex lg8>
-          <h4 v-html="$t('about.introduction')"></h4>
+          <h5 class="subheading" v-html="$t('about.introduction')"></h5>
         </v-flex>
       </v-layout>
     </v-container>
@@ -17,7 +17,8 @@
 </template>
 
 <script>
-export default {};
+  export default {};
+
 </script>
 
 <style scoped>
