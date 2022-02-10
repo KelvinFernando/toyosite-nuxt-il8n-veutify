@@ -18,7 +18,7 @@
     "vuetify": "^1.5.16"
   },
   "devDependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.11.0",
     "sass-loader": "^7.1.0",
     "stylus": "^0.54.5",
