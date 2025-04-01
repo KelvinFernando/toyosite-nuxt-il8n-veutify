@@ -2,7 +2,7 @@
 
 A restaurant site built for Toyo Japanese Steakhouse, a restaurant that cooks in teppankyaki. 
 
-[Visit site](https://toyo.netlify.com). Read more about the process [here](https://link.medium.com/PkZZ7g1C4U). 
+[Visit site](https://toyo.netlify.app). Read more about the process [here](https://link.medium.com/PkZZ7g1C4U). 
 
 ### Prerequisites
 
